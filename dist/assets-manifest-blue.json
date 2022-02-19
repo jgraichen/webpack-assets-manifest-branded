@@ -1,0 +1,10 @@
+{
+  "brand/blue/logo.svg": {
+    "src": "d1126897fcebf4fe2477.svg",
+    "integrity": "sha384-TMwMRIsJ6a/tao5Dhx8lDXydyTz7kZO5SDszYmGXA9Hl6zM4wDQV/nzupeMWZGlp"
+  },
+  "manifest.js": {
+    "src": "manifest.js",
+    "integrity": "sha384-ueiE1ncc3/acVCDhxq0Dj2sShzu3WDQvPjmpuyYGx0Ll/WoRs/22AJKyASNmKN0d"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "app/assets/logo.svg": {
+    "src": "581d86df2e7743f2c771.svg",
+    "integrity": "sha384-JcnPQPUWAADLlNOBv9MSixuv/fv43CHqBk5QEvIHk3/AGFVsg9e2oaUcWxp02WC2"
+  },
+  "manifest.js": {
+    "src": "manifest.js",
+    "integrity": "sha384-fDz60iGBc6M2DzwtNHyjiUEfMNBdc+V0DF6Z0eo5gJfcVMEm/AvIWLFmHOlk9rm8"
+  }
+}
