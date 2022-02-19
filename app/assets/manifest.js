@@ -1,3 +1,3 @@
 // Import images used by the server-site application
 
-import "logo.svg"
+import "images/logo.svg"

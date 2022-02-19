@@ -1,10 +1,10 @@
 {
-  "brand/red/logo.svg": {
+  "brand/red/images/logo.svg": {
     "src": "f6bbc129f6d5a53d18cb.svg",
     "integrity": "sha384-cB6Pw8ZRfj9oSTaj+hLXmgZxz/NPguBUMQlVpUMdInXmhI3U/KSVyzbV0V0Ptix6"
   },
   "manifest.js": {
     "src": "manifest.js",
-    "integrity": "sha384-JzBJ5NWSxA0xNMuYxbxIc4pC5//nrefJn4rgZD+hLUVkH/Z4kgHJkTqihros01um"
+    "integrity": "sha384-hnkoagT72cxWQfV4zW39ARA65F+FcRllVqGkYtBxtIN9Hn6+yNAyI9bKw6x0LU6u"
   }
 }

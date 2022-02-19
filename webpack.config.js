@@ -33,13 +33,15 @@ module.exports = async (env) => {
         writeToDisk: true,
         contextRelativeKeys: true,
         // Ignore a source maps and compressed files.
-        customize(e) {
+        customize(entry, original, manifest, asset) {
           // Skip source maps
-          if (e.key.endsWith(".map") || e.key.endsWith(".gz")) {
+          if (entry.key.endsWith(".map") || entry.key.endsWith(".gz")) {
             return false;
           }
 
-          return e;
+          debugger;
+
+          return entry;
         },
       }),
     ],
